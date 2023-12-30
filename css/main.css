@@ -1,0 +1,11 @@
+.demo {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+.vip{
+    font-family: fantasy;
+    margin: 10px;
+    color: #000;
+    text-decoration: underline;
+}
